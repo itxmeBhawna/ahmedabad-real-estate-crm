@@ -1,0 +1,18 @@
+# Python / Virtual Environments
+backend/.venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+backend/ahmedabad_re_crm.db
+*.sqlite3
+
+# Environment variables & secrets
+backend/.env
+.env
+
+# Node / Frontend Build files
+frontend/node_modules/
+frontend/dist/
+.DS_Store
